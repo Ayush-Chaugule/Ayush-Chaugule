@@ -31,7 +31,7 @@ Exploring India's Unified Payments Interface through data-driven analysis and vi
 
 ### 02 · MintDown
 
-A desktop application that converts files into Markdown through a graphical interface, making document conversion accessible without the command line.
+A Linux desktop application that converts files into Markdown through a graphical interface, making document conversion accessible without the command line.
 
 [View repository →](https://github.com/Ayush-Chaugule/mintdown)
 
