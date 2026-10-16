@@ -1,4 +1,3 @@
-
 # Hi, I'm Ayush Chaugule
 
 **Data Science | Data Analytics | Open Source**
@@ -20,6 +19,8 @@ I also build practical tools for my own workflows and share them openly when the
   </a>
 </p>
 
+---
+
 ## Featured Projects
 
 ### 01 · Mapping UPI
@@ -30,7 +31,7 @@ Exploring India's Unified Payments Interface through data-driven analysis and vi
 
 ### 02 · MintDown
 
-A local-first desktop application that converts files into Markdown through a graphical interface, making document conversion accessible without the command line.
+A desktop application that converts files into Markdown through a graphical interface, making document conversion accessible without the command line.
 
 [View repository →](https://github.com/Ayush-Chaugule/mintdown)
 
@@ -40,9 +41,14 @@ An applied deep-learning project exploring an enhanced ResNet-18 convolutional n
 
 [View project →](https://github.com/Ayush-Chaugule/Enhanced-ResNet-18-CNN-Model)
 
-## Areas of Interest
+---
 
-- Data Analytics and Exploratory Data Analysis
-- Data Science and Machine Learning
-- Data Visualization and Reporting
-- Open-Source Tools and Practical Problem Solving
+## 
+
+```text
+███  ████  █████ █   █     ████  ███  █   █ ████   ███  █████ 
+█   █ █   █ █     ██  █    █     █   █ █   █ █   █ █     █     
+█   █ ████  ████  █ █ █     ███  █   █ █   █ ████  █     ████  
+█   █ █     █     █  ██        █ █   █ █   █ █  █  █     █     
+ ███  █     █████ █   █    ████   ███   ███  █   █  ███  █████
+```
